@@ -1,0 +1,2 @@
+my_slam_package:ydlidar_ros_driver
+-DCATKIN_DEVEL_PREFIX=/home/pj/rs_ws/devel -DCMAKE_INSTALL_PREFIX=/home/pj/rs_ws/install -G Unix Makefiles
